@@ -1,2 +1,2 @@
-# AGAN-ESTE
-Adaptive graph attention network with enhanced spatio-temporal encoding for multivariate time-series forecasting
+# ASHGNN
+ASHGNN: Adaptive sparse hypergraph neural network for multivariate time series forecasting
